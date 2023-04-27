@@ -154,7 +154,7 @@ const homeTexts = {
     en: 'Knowledges',
   },
   english: {
-    ru: 'Английский язы',
+    ru: 'Английский язык',
     en: 'English',
   },
   goal: {
